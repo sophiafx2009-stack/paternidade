@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+body{
+   margin:50px;
+   background-image: url(https://i.pinimg.com/736x/79/98/dd/7998dd1429f37960e22c8c2b07cd29f9.jpg)
+}
+
+h1{
+    font-size: 38px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 26px;
+}
+
+h3{
+    font-size: 20px;
+}
