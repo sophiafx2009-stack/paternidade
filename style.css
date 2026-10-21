@@ -11,10 +11,30 @@ body{
    background-image: url(https://i.pinimg.com/736x/79/98/dd/7998dd1429f37960e22c8c2b07cd29f9.jpg)
 }
 
+#body2{
+    margin:50px;
+   background-image: url(https://i.pinimg.com/1200x/ab/23/48/ab234838d42809d70e0a5bdf00d15fcf.jpg)
+
+}
+
+#body3{
+    margin:50px;
+   background-image: url(https://i.pinimg.com/originals/69/ec/d9/69ecd955db97b91fb499f0c7f1a7e95b.png)
+
+}
+
 .cabecalho{
     background-color: pink;
     padding: 30px 30px;
    
+}
+
+#cabecalho2{
+    background-color: rgb(180, 241, 180);
+}
+
+#cabecalho3{
+    background-color: white;
 }
 
 h1{
@@ -24,9 +44,22 @@ h1{
     color: rgb(255, 255, 202);
 }
 
+#h1{
+    font-size: 38px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    color: rgb(255, 93, 215);
+}
+
 h2{
     font-size: 26px;
      color: rgb(255, 255, 202);
+}
+
+#marrom{
+    font-size: 26px;
+     color: rgb(88, 43, 17);
+     text-align: center
 }
 
 h3{
@@ -67,6 +100,10 @@ h3{
 
 .menu{
     margin-left: 480px;
+}
+
+#menu2{
+    margin-left: 580px ;
 }
 
 .etiqueta{
@@ -125,5 +162,90 @@ object-fit: cover;
 border-radius: 10px;
 gap: 15px;
 display: flex;
+
+}
+
+.imagens{
+
+    width: 200px;
+height: auto;
+margin-top: 30px;
+border-radius: 10px;
+gap: 15px;
+display: flex;
+
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+     align-items: center;
+    gap: 25px;
+    padding: 30px;
+}
+
+.imagens{
+    width: 200px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.imagens img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+
+#inicio{
+font-size: 26px;
+     color: rgb(255, 255, 202);
+      text-align: center;
+}
+
+
+#card2{
+    background-color: rgb(211, 171, 243);
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 30px;
+    margin-bottom: 40px;
+   
+}
+
+#card3{
+    background-color: rgb(211, 171, 243);
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 30px;
+    margin-bottom: 40px;
+    width: fit-content;
+
+}
+
+
+#subtitulo{
+    margin-left: 400px;
+
+}
+
+
+#descricao{
+    text-align: center;
+
+}
+
+#card4{
+    background-color: rgb(159, 255, 239);
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 30px;
+    margin-bottom: 40px;
+    width: fit-content;
+    gap: 30px;
 
 }
