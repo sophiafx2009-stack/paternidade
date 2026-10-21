@@ -55,10 +55,9 @@ h3{
 
 .container{
     display: block;
-    gap: 20px;
     align-items: flex-start;
     justify-content: space-between;
-
+    gap: 20px;
 }
 
 .subtitulo{
