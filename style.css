@@ -40,14 +40,14 @@ body{
 h1{
     font-size: 38px;
     margin-bottom: 10px;
-    margin-left: 500px;
+    margin-left: 550px;
     color: rgb(255, 255, 202);
 }
 
 #h1{
     font-size: 38px;
     margin-bottom: 10px;
-    margin-left: 300px;
+    margin-left: 350px;
     color: rgb(255, 93, 215);
 }
 
@@ -94,16 +94,16 @@ h3{
 }
 
 .subtitulo{
-    margin-left: 400px;
+    margin-left: 450px;
     
 }
 
 .menu{
-    margin-left: 480px;
+    margin-left: 620px;
 }
 
 #menu2{
-    margin-left: 580px ;
+    margin-left: 620px ;
 }
 
 .etiqueta{
@@ -229,7 +229,7 @@ font-size: 26px;
 
 
 #subtitulo{
-    margin-left: 400px;
+    margin-left: 480px;
 
 }
 
@@ -248,4 +248,26 @@ font-size: 26px;
     width: fit-content;
     gap: 30px;
 
+}
+
+#card5{
+    background-color: rgb(248, 191, 248);
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 500;
+    gap: 30px;
+    text-align: center;
+
+}
+
+
+.footer{
+
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+    min-height: 10vh;
 }
